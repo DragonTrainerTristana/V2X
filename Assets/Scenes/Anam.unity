@@ -4106,6 +4106,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: GhostCar_No.1
       objectReference: {fileID: 0}
+    - target: {fileID: 1332896982454310, guid: 7ecf74b289b28f246bfea1ee3e275c26, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 4289291022717028, guid: 7ecf74b289b28f246bfea1ee3e275c26, type: 3}
       propertyPath: m_RootOrder
       value: 7
@@ -9457,6 +9461,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: GhostCar_No.3
       objectReference: {fileID: 0}
+    - target: {fileID: 1332896982454310, guid: 7ecf74b289b28f246bfea1ee3e275c26, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 4289291022717028, guid: 7ecf74b289b28f246bfea1ee3e275c26, type: 3}
       propertyPath: m_RootOrder
       value: 13
@@ -11530,6 +11538,10 @@ PrefabInstance:
     - target: {fileID: 1332896982454310, guid: 7ecf74b289b28f246bfea1ee3e275c26, type: 3}
       propertyPath: m_Name
       value: GhostCar_No.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1332896982454310, guid: 7ecf74b289b28f246bfea1ee3e275c26, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4289291022717028, guid: 7ecf74b289b28f246bfea1ee3e275c26, type: 3}
       propertyPath: m_RootOrder
@@ -40223,7 +40235,7 @@ PrefabInstance:
     - target: {fileID: 9101228648206471110, guid: 90cc7fa7f58d97e4ea02185fb3447d82, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 13ee552d8652f9c46bd21434e9f32533, type: 2}
+      objectReference: {fileID: 2100000, guid: 5adea1c141f2171428c3ebc036d70553, type: 2}
     - target: {fileID: 9101228648206471110, guid: 90cc7fa7f58d97e4ea02185fb3447d82, type: 3}
       propertyPath: m_Materials.Array.data[1]
       value: 
